@@ -1,0 +1,8 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="row3.CGPA==&quot;1234&quot;">
+  <variables name="row3.Student_Name" value="null" talendType="id_String"/>
+  <variables name="row3.Roll_Number" value="null" talendType="id_String"/>
+  <variables name="row3.Deaprtment" value="null" talendType="id_String"/>
+  <variables name="row3.CGPA" value="0" talendType="id_Float"/>
+  <variables name="row3.Mobile_Number" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
